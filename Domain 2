@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kleider Shop</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #444;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 10px;
+    }
+
+    section {
+      padding: 20px;
+    }
+
+    footer {
+      background-color: #555;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Willkommen im Kleider Shop</h1>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Damen</a>
+    <a href="#">Herren</a>
+    <a href="#">Kinder</a>
+    <a href="#">Sale</a>
+    <a href="#">Kontakt</a>
+  </nav>
+
+  <section>
+    <h2>Neue Kollektion eingetroffen!</h2>
+    <p>Entdecken Sie die neuesten Trends für Damen, Herren und Kinder.</p>
+    <p>Unsere Kleider sind von höchster Qualität und zu unschlagbaren Preisen.</p>
+    <p>Jetzt zugreifen, solange der Vorrat reicht!</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Kleider Shop. Alle Rechte vorbehalten.</p>
+  </footer>
+</body>
+
+</html>
